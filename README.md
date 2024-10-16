@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Machine Learning | Data Science | Statistics | Applied Maths
+- Data Engineering | Machine Learning | Data Science
 - [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/marcin-kostrzewa/), 📧 [Manik24901@gmail.com](mailto:Manik24901@gmail.com) 
