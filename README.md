@@ -18,14 +18,11 @@
 
 ## 💻 Technical Stack
 
-### 🛠 Core:
-Python | C | Docker | Git | Linux | CI/CD
+🛠 Core: Python | C | Docker | Git | Linux | CI/CD
 
-### 🗄 Data & Infrastructure:
-PostgreSQL | MSSQL | Airflow | FastAPI | GCP
+🗄 Data & Infrastructure: PostgreSQL | MSSQL | Airflow | FastAPI | GCP
 
-### 🧮 ML & Scientific Computing:
-PyTorch | JAX | NumPy | SciPy | Transformers | Knowledge Graphs
+🧮 ML & Scientific Computing: PyTorch | JAX | NumPy | SciPy | Transformers | Knowledge Graphs
 
 ## 🔮 Future Plans
 
@@ -33,14 +30,6 @@ PyTorch | JAX | NumPy | SciPy | Transformers | Knowledge Graphs
 - Developing Python packages for scientific computing
 - Contributing to ML and statistical computing libraries
 
-### 📚 Learning:
-- Rust
-- Go
-- Nix
+### 📚 Learning: Rust, Go, Nix
 
-### 🎯 Long-term:
-- Founding a technical startup
-
-## Contact:
-- [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/marcin-kostrzewa/),
-- 📧 [Manik24901@gmail.com](mailto:Manik24901@gmail.com) 
+### 🎯 Long-term: Founding a technical startup
