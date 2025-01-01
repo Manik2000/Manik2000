@@ -4,7 +4,7 @@
 
 🎓 PhD Researcher in XAI, focusing on counterfactual explanations
 
-📊 Applied Mathematics graduate with strong statistics background
+📊 Applied Mathematics graduate with strong background in probability and statistics 
 
 ### 🚀 Currently working on:
 - Knowledge graph-based data architecture
